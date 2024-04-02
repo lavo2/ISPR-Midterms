@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/lavo2/ISPR-Midterms/blob/main/1/midterm1.ipynb
